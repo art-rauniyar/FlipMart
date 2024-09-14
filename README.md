@@ -62,7 +62,7 @@ Users from the same region may share common dietary habits and food preferences.
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/flipmart.git
+    git clone https://github.com/art-rauniyar/FlipMart.git
     ```
 
 2. Run the code:
