@@ -65,19 +65,9 @@ Users from the same region may share common dietary habits and food preferences.
     git clone https://github.com/your-username/flipmart.git
     ```
 
-2. Navigate into the project directory:
-    ```bash
-    cd flipmart
-    ```
-
-3. Install the required dependencies:
-    ```bash
-    npm install
-    ```
-
-4. Start the project:
-    ```bash
-    npm start
+2. Run the code:
+   ```bash
+    python app.py
     ```
 
 ---
