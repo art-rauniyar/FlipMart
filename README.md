@@ -36,19 +36,25 @@ Users from the same region may share common dietary habits and food preferences.
 ## Screenshots 🖼️
 
 ---
-
+##Home Page
 ![Home Page](./Screenshots/Home-page.png)
 
+##Recipify
 ![Recipify](./Screenshots/Recipify.png)
 
+##Recipi info
 ![Recipi info](./Screenshots/Recipi-info.png)
 
+##Recommendation Based On Browser History
 ![Recommendation-Based-On-Browser-History](./Screenshots/Recommendation-Based-On-Browser-History.png)
 
+##Similar User
 ![Users Like You Also Bought](./Screenshots/Users-Like-You-Also-Bought.png)
 
+##Top Products
 ![Top 6 Products](./Screenshots/Top-6-Products.png)
 
+##Shopping Cart
 ![Shopping cart](./Screenshots/Shopping-cart.png)
 
 
