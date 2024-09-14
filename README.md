@@ -38,6 +38,20 @@ Include screenshots of the platform interface here.
 
 ---
 
+![Home Page](./Screenshots/Home-page.png)
+
+![Recipify](./Screenshots/Recipify.png)
+
+![Recipi info](./Screenshots/Recipi info.png)
+
+![Recommendation Based On Browser History](./Screenshots/Recommendation Based On Browser History.png)
+
+![Users Like You Also Bought](./Screenshots/Users Like You Also Bought.png)
+
+![Top 6 Products](./Screenshots/Top 6 Products.png)
+
+![Shopping carrt](./Screenshots/Shopping carrt.png)
+
 ## Installation
 
 1. Clone the repository:
