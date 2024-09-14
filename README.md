@@ -36,7 +36,7 @@ Users from the same region may share common dietary habits and food preferences.
 ## Screenshots 🖼️
 
 ---
-##Home Page
+## Home Page
 ![Home Page](./Screenshots/Home-page.png)
 
 ##Recipify
