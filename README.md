@@ -39,22 +39,22 @@ Users from the same region may share common dietary habits and food preferences.
 ## Home Page
 ![Home Page](./Screenshots/Home-page.png)
 
-##Recipify
+## Recipify
 ![Recipify](./Screenshots/Recipify.png)
 
-##Recipi info
+## Recipi info
 ![Recipi info](./Screenshots/Recipi-info.png)
 
-##Recommendation Based On Browser History
+## Recommendation Based On Browser History
 ![Recommendation-Based-On-Browser-History](./Screenshots/Recommendation-Based-On-Browser-History.png)
 
-##Similar User
+## Similar User
 ![Users Like You Also Bought](./Screenshots/Users-Like-You-Also-Bought.png)
 
-##Top Products
+## Top Products
 ![Top 6 Products](./Screenshots/Top-6-Products.png)
 
-##Shopping Cart
+## Shopping Cart
 ![Shopping cart](./Screenshots/Shopping-cart.png)
 
 
@@ -82,9 +82,12 @@ Users from the same region may share common dietary habits and food preferences.
 
 ---
 
-## Support and Contact
+## Support and Contact 📩
 
-If you have any questions or need support, feel free to reach out to us at:  
-📧 **support@flipmart.com**
+Project made by:  
+- [Raj Sah Rauniyar](https://www.linkedin.com/in/raj-sah-rauniyar/)
+- [Aman Kshetri](https://www.linkedin.com/in/amankshetri/)  
+- [Aman Bhandari](https://www.linkedin.com/in/aman-bhandari01/)   
 
-You can also open an issue in the [issues section](https://github.com/your-username/flipmart/issues) on GitHub.
+Feel free to contact us! 🙂
+
