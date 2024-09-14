@@ -1,3 +1,4 @@
+![Banner](./Screenshots/banner.jpg)
 # FlipMart ✨ - A Personalized Product Recommender by Binary Coders
 
 **FlipMart** is a personalized product recommendation system developed as part of the Flipkart GRID 5.0 program. It simulates the functionalities of an e-commerce platform by addressing the challenge of providing personalized product recommendations.
