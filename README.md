@@ -34,7 +34,6 @@ Users from the same region may share common dietary habits and food preferences.
 ---
 
 ## Screenshots 🖼️
-Include screenshots of the platform interface here.
 
 ---
 
@@ -42,15 +41,16 @@ Include screenshots of the platform interface here.
 
 ![Recipify](./Screenshots/Recipify.png)
 
-![Recipi info](./Screenshots/Recipi info.png)
+![Recipi info](./Screenshots/Recipi-info.png)
 
-![Recommendation Based On Browser History](./Screenshots/Recommendation Based On Browser History.png)
+![Recommendation-Based-On-Browser-History](./Screenshots/Recommendation-Based-On-Browser-History.png)
 
-![Users Like You Also Bought](./Screenshots/Users Like You Also Bought.png)
+![Users Like You Also Bought](./Screenshots/Users-Like-You-Also-Bought.png)
 
-![Top 6 Products](./Screenshots/Top 6 Products.png)
+![Top 6 Products](./Screenshots/Top-6-Products.png)
 
-![Shopping carrt](./Screenshots/Shopping carrt.png)
+![Shopping cart](./Screenshots/Shopping-cart.png)
+
 
 ## Installation
 
